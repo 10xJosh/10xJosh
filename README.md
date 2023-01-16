@@ -1,6 +1,6 @@
 <h1>Howdy and Welcome!👋</h1>
 
-My name is Josh and I am a self-taught .NET developer. I got my start in IT doing helpdesk support for Microsoft Office 365 products. I am Comptia A+ certified and I am also OSCP certified, a popular cybersecurity certification. In my free time when im not learning more about tech, I love gaming, reading, and doing yoga.
+My name is Josh and I am a self-taught .NET developer. I got my start in IT doing helpdesk support for Microsoft Office 365 products. I am Comptia A+ certified and I am also OSCP certified. In my free time when im not learning more about tech, I love gaming, reading, and doing yoga.
 
 <h2>Latest Projects</h2>
 
