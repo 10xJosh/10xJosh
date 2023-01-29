@@ -4,8 +4,7 @@ My name is Josh and I am a self-taught C# developer. I got my start in IT doing 
 
 <h2>Latest Projects</h2>
 <h3>Finnacial Planner (Work In Progress) - (https://github.com/10xJosh/JoshsFinancialPlanner) </h3>
-Keeps track of payments throughout the month and displays which payments are due. Also provides a overview of what type of payments are made throughout the month. Using this to learn more about databases and SQL.
-
+Keeps track of payments throughout the month and displays which payments are due. Also provides a overview of what type of payments are made throughout the month. Payments can be added, edited and saved using a custom .jfp file.
 
 ![joshsFinnacial PlannerWIP](https://user-images.githubusercontent.com/55113224/214427536-831592e7-b5c1-490f-8dca-6e4e533b12b0.gif)
 
