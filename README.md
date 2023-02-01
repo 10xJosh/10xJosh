@@ -3,10 +3,14 @@
 My name is Josh and I am a self-taught C# developer. I got my start in IT doing helpdesk support for Microsoft Office 365 products. I am Comptia A+ certified and I am also OSCP certified. In my free time when im not learning more about tech, I love gaming, reading, and doing yoga.
 
 <h2>Latest Projects</h2>
-<h3>Finnacial Planner (Work In Progress) - (https://github.com/10xJosh/JoshsFinancialPlanner) </h3>
-Keeps track of payments throughout the month and displays which payments are due. Also provides a overview of what type of payments are made throughout the month. Payments can be added, edited and saved using a custom .jfp file.
+<h3>Monthly Expense Tracker - (https://github.com/10xJosh/JoshsFinancialPlanner) </h3>
+Keeps track of payments for the month and gets the sum of the expenses for the month. Payments can be added, edited and saved using a custom .jfp file extension.
 
-![joshsFinnacial PlannerWIP](https://user-images.githubusercontent.com/55113224/214427536-831592e7-b5c1-490f-8dca-6e4e533b12b0.gif)
+![payment](https://user-images.githubusercontent.com/55113224/216009347-278c82e8-0190-4fe6-80d8-517c685431c5.gif)
+
+![loadsave](https://user-images.githubusercontent.com/55113224/216009373-3ef6f3dd-627d-415c-aa35-4bcaefccf329.gif)
+
+
 
 
 <h3>Text-To-Speech Program - (https://github.com/10xJosh/JoshsTextToSpeechReader) </h3>
