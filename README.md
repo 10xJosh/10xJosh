@@ -4,11 +4,12 @@ My name is Josh and I am a self-taught C# developer. I got my start in IT doing 
 
 <h2>Latest Projects</h2>
 <h3>Monthly Expense Tracker - (https://github.com/10xJosh/JoshsFinancialPlanner) </h3>
-Keeps track of payments for the month and gets the sum of the expenses for the month. Payments can be added, edited and saved using a custom .jfp file extension.
+Keeps track of payments for the month and gets the sum of the expenses for the month. Payments can be added, edited and saved using a custom .jmet file extension.
 
 ![payment](https://user-images.githubusercontent.com/55113224/216009347-278c82e8-0190-4fe6-80d8-517c685431c5.gif)
 
-![loadsave](https://user-images.githubusercontent.com/55113224/216009373-3ef6f3dd-627d-415c-aa35-4bcaefccf329.gif)
+
+![loadsave](https://user-images.githubusercontent.com/55113224/216012934-8f3436e0-59df-4838-aceb-dbf0e86eda7f.gif)
 
 
 
