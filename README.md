@@ -15,12 +15,12 @@ Keeps track of payments for the month and gets the sum of the expenses for the m
 
 
 
-<h3>Text-To-Speech Program - (https://github.com/10xJosh/JoshsTextToSpeechReader) </h3>
+<h2>Text-To-Speech Program - (https://github.com/10xJosh/JoshsTextToSpeechReader) </h2>
 Using the Speech.Synthesis library provided by Microsoft, this program will read text inputed into the textbox. You can import .txt files to have it be read to you while you multitask. As an audiobook lover, this is one of my favorite projects!
 
 ![tts](https://user-images.githubusercontent.com/55113224/212590837-774d831c-58d4-41d1-873f-6edbe37c4f27.gif)
 
-<h3>File Checksum - (https://github.com/10xJosh/File-Integrity-Checker) </h3>
+<h2>File Checksum - (https://github.com/10xJosh/File-Integrity-Checker) </h2>
 Quickly get the checksum of a file using my lightweight File Integrity Checker. Used to make sure downloads haven't been corrupted when downloading or any malicious actors have hijacked the download link. This is very helpful for cybersecurity stuff!
 
 ![FileIntegrityChecker](https://user-images.githubusercontent.com/55113224/212591153-11c8761c-9623-4c7d-a743-d6583642f6af.gif)
