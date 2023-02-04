@@ -26,7 +26,7 @@ Quickly get the checksum of a file using my lightweight File Integrity Checker. 
 ![FileIntegrityChecker](https://user-images.githubusercontent.com/55113224/212591153-11c8761c-9623-4c7d-a743-d6583642f6af.gif)
 
 
-
+and [more!](https://github.com/10xJosh?tab=repositories)
 <!--
 **10xJosh/10xJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
