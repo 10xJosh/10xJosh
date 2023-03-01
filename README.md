@@ -3,14 +3,14 @@
 My name is Josh and I am a self-taught C# developer. I got my start in IT doing helpdesk support for Microsoft Office 365 products. I am Comptia A+ certified and I am also OSCP certified. In my free time when im not learning more about tech, I love gaming, reading, and doing yoga.
 
 <h2>Latest Projects</h2>
-<h3> Pomodoro Timer (Work In Progress)- (https://github.com/10xJosh/JoshsPomodoroTimer) </h3>
+<h2> Pomodoro Timer (Work In Progress)- (https://github.com/10xJosh/JoshsPomodoroTimer) </h2>
 Pomodoro timer that helps you stay on track and stay focused. This program has a couple of features that can make it be used as a general timer as well!
 
 ![pomodorotimer](https://user-images.githubusercontent.com/55113224/222023390-811bf41d-1a61-410a-8ea0-6adf8b3dc84c.gif)
 
 
 
-<h3>Monthly Expense Tracker - (https://github.com/10xJosh/JoshsFinancialPlanner) </h3>
+<h2>Monthly Expense Tracker - (https://github.com/10xJosh/JoshsFinancialPlanner) </h2>
 Keeps track of payments for the month and gets the sum of the expenses for the month. Payments can be added, edited and saved using a custom .jmet file extension.
 
 ![payment](https://user-images.githubusercontent.com/55113224/216009347-278c82e8-0190-4fe6-80d8-517c685431c5.gif)
