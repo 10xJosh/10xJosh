@@ -2,7 +2,10 @@
 
 My name is Josh and I am a self-taught C# developer. I got my start in IT doing helpdesk support for Microsoft Office 365 products. I am Comptia A+ certified and I am also OSCP certified. In my free time when im not learning more about tech, I love gaming, reading, and doing yoga.
 
+
+
 <h2>Latest Projects</h2>
+Programming YouTube Channel -> https://www.youtube.com/channel/UC0aKbtuohk0cEe5c3v25VPg
 <h2>Josh's Pomodoro Timer - (https://github.com/10xJosh/JoshsPomodoroTimer) </h2>
 A simple Pomodoro timer that helps you stay on track and stay focused. 
 
